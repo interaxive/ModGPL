@@ -1,0 +1,53 @@
+
+THE ‘CHuMS’ DUAL LICENCE
+
+1. Definitions
+To “modify” means to copy from or adapt all or part of the work in a manner that requires copyright permission, except making an exact copy. To “propagate” means to do anything with a work that, without permission, would qualify as an infringement, except the use or modification of a private copy. To “convey” means any kind of propagation that enables another person to make or receive copies or functional portions of the work. A “covered work” means either the unmodified program or a work based on the program. The “source code” means the preferred form of the work for making modifications. The “object code” means any non-source form of a work.
+
+2. Basic Permission
+You may use, modify and propagate a covered work that you do not convey. You may convey covered work to others for the sole purpose of having them make modifications exclusively for you. Conveying under any other circumstances is permitted solely under the conditions stated below.
+
+3. Protecting Users’ Legal Rights from Anti-Circumvention Law
+No covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under the WIPO copyright treaty. When you convey a covered work, you waive any legal power to forbid the circumvention of technological measures and you disclaim any intention to limit the operation or modification of the work as a means of enforcing your or third-party’s rights.
+
+4. Conveying a Copy or Modification
+You may convey the source code only as permitted by Section 11. You may convey a modification, extension or combination produced from or based on the work, in the form of source code provided that: (a) the work carries a modification notice and the modification date; (b) the work carries a notice that it is subject to the terms of this Licence; (c) you license the entire work under this Licence to anyone who obtains a copy; and (d) if applicable, the user interface displays visible appropriate legal notices of copyright and how to view this Licence.
+
+5. Conveying Non-Source Forms
+You may convey the object code under the terms of Section 4 provided that you also convey the corresponding source code: (a) together with the object code on a durable physical medium customarily used for software interchange; (b) by offering access to the object code from a designated place, together with access to the source code from the same place at no further charge, or (c) using peer-to-peer transmission, provided that you inform other peers where the object code and source code are available at no charge.  If you convey the object code work in, or for use in, a consumer product, the source code conveyed under this section must be accompanied by reasonably accessible installation information.
+
+6. Additional Terms
+You may place additional permissions on material, added by you to a covered work, for which you have or can give appropriate copyright permission.
+
+
+7. Termination
+Violation of this Licence will automatically terminate your rights under this Licence, but your rights shall be reinstated if you demonstrate compliance within 30 days of receiving the notice of violation. If your use of the covered work does not comply with the requirements currently in effect as described in this Licence, you must purchase a commercial licence from the Licensor, its affiliated entities, or authorized resellers, or you must refrain from using the work.
+
+8. Acceptance Not Required for Having Copies
+Acceptance of the Licence is not required for having a copy of the work. By modifying or propagating a covered work, you indicate your acceptance of this Licence to do so.
+
+9. Automatic Licensing of Downstream Recipients
+All copies of the original and modified work and derivative works are subject to this Licence and apply separately for each version. If you receive a covered work in original or modified form from a third-party, the terms and conditions outlined in this Licence apply to your use of the work. Each contributor grants you a non-exclusive, worldwide, royalty-free patent licence permission under the contributor's essential patent claims, including permission to sell, offer for sale, import and otherwise run the contents of the contributor’s version. There is no warranty granted under this Licence, but you may offer warranty protection to others.
+
+10. No Surrender of Others’ Freedom
+If conditions are imposed on you that contradict the conditions of this Licence, they do not excuse you from the conditions of this Licence.  
+
+11. Additional Permission
+“Permission” means to use, copy, modify, merge, publish, propagate, or sublicense the work in a manner that does not convey. The following conditions apply to each Use category as clearly indicated thereunder:
+
+(7) Permitted, without limitation; or
+(6) Conditionally Permitted:
+       i. This Licence and copyright notice must be included in all copies or
+substantial portions of the Software; and
+ii. No restrictions or modifications to this Licence may be imposed; or
+(5) Not Permitted, a separate licence must be obtained.
+
+Personal Use Permission is hereby granted for personal and private use subject to:
+        (7)         or        (6)        or        (5)
+Commercial Use Permission is hereby granted for general commercial use subject to:
+        (7)         or        (6)        or        (5)
+Public Use Permission is hereby granted for public or shared use, conveyed via network interface, cloud computing platform or any software-as-a-service system, subject to:
+        (7)         or        (6)        or        (5)
+
+12. Warranty and Liability
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK.
